@@ -1,0 +1,20 @@
+﻿{
+  "Records": [
+    {
+      "messageId": "5d1831bc-fbe8-4ab0-a6ef-f69b4df8b3e3",
+      "receiptHandle": "AQEBopVUNsV8e6IzKBjByfEgyk+EWHgg6+vzW5H5NidTr/v19NVTidc+s9l/zKxK/je2vxZlU+NtZHAbx3c9aZMJZHDbqSjHk1fWp5gyeWM7HzWMC7ziEwOd714RYAC3eItmPDMaj8loRGjkodjNmPP3r8KAXqZqUdQghYtITbpSte80V88e0XyffjxO2yjEiLGCsdnanMawoLqoLpJgagk5hI6uQbaQCCM7HG55+EF6ajfHKX234BePrBWd914S+573PicFXlYMCYeFOytagg9boJlXgZhwKXZ2SiBB4FU09hFeTGVBVUB/xP5UCL3B4ozCPnL50h9d05w9lwO6Ly/RoGRU57HSl9JYTBdxtEiRi/anDvlYhOK5/hAGmFs/fpjh",
+      "body": "{\"SnapshotUrl\": \"https://www.91app.com\"}",
+      "attributes": {
+        "ApproximateReceiveCount": "1",
+        "SentTimestamp": "1535167635048",
+        "SenderId": "AIDAIUOJNQVIRLLZ6KRP6",
+        "ApproximateFirstReceiveTimestamp": "1535167635056"
+      },
+      "messageAttributes": {},
+      "md5OfBody": "6b60eb0784aa353f73e2862359d0f64f",
+      "eventSource": "aws:sqs",
+      "eventSourceARN": "arn:aws:sqs:us-east-1:310748029630:OrderScreenShot",
+      "awsRegion": "us-east-1"
+    }
+  ]
+}
